@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msi",
+  "version": "1.0.0",
+  "description": "random string msi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+      "custom-script": "node scripts/customScript.js"
+    
+  },
+  "keywords": [],
+  "author": "Christian Testa <testach45@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/random-str-msg#readme"
+  },
+  "homepage": "https://github.com/gndx/random-str-msg#readme",
+  "bin": {
+    "random-str-msi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
