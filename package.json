@@ -1,13 +1,11 @@
 {
   "name": "random-str-msi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "random string msi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    
-      "custom-script": "node scripts/customScript.js"
-    
+    "custom-script": "node scripts/customScript.js"
   },
   "keywords": [],
   "author": "Christian Testa <testach45@gmail.com>",
